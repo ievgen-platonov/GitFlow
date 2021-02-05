@@ -9,21 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\iepl01\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_edoc\\Projects\\Git\\GitFlow\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\_Docs\\_edoc\\Projects\\Git\\GitFlow\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\_edoc\\Projects\\Git\\GitFlow\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\_Docs\\_edoc\\Projects\\Git\\GitFlow\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\iepl01\\.nuget\\packages\\",
-      "outputPath": "D:\\_edoc\\Projects\\Git\\GitFlow\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\_Docs\\_edoc\\Projects\\Git\\GitFlow\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\iepl01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,6 +40,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -53,6 +52,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
